@@ -29,7 +29,7 @@ class SendEmail:
         message.attach(MIMEText(content, 'plain', 'utf-8'))
 
         # 构造附件（附件为HTML格式的网页）
-        filename = './report/index.html'
+        filename = '../report/index.html'
         time = datetime.date.today()
         # time = datetime.datetime.now() #报告名精确到时分秒
         att = MIMEText(open(filename, 'rb').read(), 'html', 'utf-8')
