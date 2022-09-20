@@ -1,0 +1,2 @@
+INFO     \Users\apple\Downloads\mask-x\log\all.log:test_004.py:50 jl-004 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     \Users\apple\Downloads\mask-x\log\all.log:test_004.py:55 <Response [200]>
